@@ -91,3 +91,4 @@ const users =  [
 
   console.log(calculateTotalBalance(users)); 
   // 20916
+ 
