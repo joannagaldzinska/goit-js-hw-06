@@ -90,9 +90,6 @@ const users =  [
   .filter((value, index, array) => (array.indexOf(value) === index))
   .sort()
 
-  //console.log(getSortedUniqueSkills)
-
-
   console.log(getSortedUniqueSkills(users));
 
 /* [ 'adipisicing', 'amet',
